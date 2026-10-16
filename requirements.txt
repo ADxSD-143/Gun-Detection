@@ -1,0 +1,8 @@
+numpy
+opencv-python==4.10.0.84
+imutils
+Pillow
+huggingface_hub
+transformers
+tokenizers
+onnxruntime
